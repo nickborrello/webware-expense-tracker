@@ -9,7 +9,7 @@ A Single Page Application (SPA) for tracking personal expenses. Built with vanil
 
 ## Tech Stack
 - Frontend: HTML5, CSS3, JavaScript
-- Backend: Node.js (assumed)
+- Backend: Node.js
 
 ## Usage
 Start the server and navigate to the localhost URL.
